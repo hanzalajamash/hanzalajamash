@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hanzala Jamash</h1>
 <h3 align="center">A passionate software developer</h3>
 
+- 🔭 I’m currently working on [A cash management solution](https://withloop.co/cash-in-transit/)
+
 - 🌱 I’m currently learning **react**
 
 - 👯 I’m looking to collaborate on **spring boot open-source projects**
@@ -9,10 +11,10 @@
 
 - 📫 How to reach me **hanzala.jamash@gmail.com**
 
-- ⚡ Fun fact **I love code, but hate coffee**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hanzala-jamash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hanzala-jamash/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/hanzalaj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/hanzalaj/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
